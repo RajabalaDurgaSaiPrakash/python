@@ -1,0 +1,11 @@
+a=int(input("enter a number"))
+b=int(input("enter a number"))
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a**b)
+print(a%b)
+print("sum of all for", a, "and", b, "are",(a+b)+(a-b)+(a*b)+(a/b)+(a//b)+(a**b)+(a%b))

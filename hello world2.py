@@ -1,0 +1,6 @@
+print('helo world')
+print(10,20,30,40, sep='sai')
+print('sai','end\n')
+print('prakah')
+print(10, '\n', 20, '\n')
+print('sai', '\n''battu','\n''vamsi''\n''anand')
